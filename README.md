@@ -1,2 +1,5 @@
-# bhagavad-gita-bot
-The Bhagavad Gita Chatbot utilizes the knowledge of Bhagavad Gita to provide advice and answers to your questions.
+<h1 align=center> 
+  The Bhagavad Gita Chatbot
+</h1>
+
+This chatbot is made using `Pico` and `GPT 3.5`.
